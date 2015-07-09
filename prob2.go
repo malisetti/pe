@@ -37,9 +37,11 @@ func fib_generator() chan int {
   c := make(chan int)
 
   go func() { 
-    for i, j := 0, 1; ; i, j = i+j,i {
+    for i, j := 0, 1; j <= LIMIT; i, j = i+j,i {
         c <- i
     }
+
+    close(c)
   }()
 
   return c
