@@ -40,8 +40,7 @@ func fib_generator() chan int {
     for i, j := 0, 1; j <= LIMIT; i, j = i+j,i {
         c <- i
     }
-
-    close(c)
+    defer close(c)
   }()
 
   return c
