@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"strconv"
 	"sync"
+	"os"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -17,26 +18,21 @@ const (
 var wg sync.WaitGroup
 
 func main() {
-	done := make(chan bool)
-	d := true
-	i := 1
-	for d != false {
-		url := BASE_URL + strconv.Itoa(i)
+	for i := 1; i <= 523; i++ {
 		wg.Add(1)
-		go fetch(url, done)
+		go fetch(i)
 		i++
-		d = <- done
 	}
 	wg.Wait()
 }
 
-func fetch(url string, done chan bool) {
-	done <- true
+func fetch(i int) {
+	num := strconv.Itoa(i)
+	url := BASE_URL + num
 	defer wg.Done()
 	resp, err := http.Get(url)
 
-	if err != nil {
-		done <- false
+	if err != nil || resp.StatusCode != http.StatusOK {
 		fmt.Println("http transport error is:", err)
 	} else {
 		defer resp.Body.Close()
@@ -44,10 +40,32 @@ func fetch(url string, done chan bool) {
 		if err != nil {
 			fmt.Println("read error is:", err)
 		} else {
+			var title string = ""
+			var problemContent string = ""
 			doc.Find("#content h2").Each(func(i int, s *goquery.Selection) {
-		    	title := s.Text()
-		    	fmt.Printf("%s Title - %s\n", url, title)
+		    	title = s.Text()
 		  	})
+
+		  	doc.Find("#content .problem_content").Each(func(i int, s *goquery.Selection) {
+		    	problemContent = s.Text()
+		  	})
+
+		  	//write to file
+		  	path, err := os.Getwd()
+		  	if err != nil {
+		  		panic(err)
+		  	}
+		  	
+		  	filepath := path + string(byte(os.PathSeparator)) + "prob" + num + ".go"
+
+		  	f, err := os.Create(filepath)
+		  	if err != nil {
+		  		panic(err)
+		  	}
+	  	    defer f.Close()
+
+	  	    _, _ = f.WriteString(title + "\n" + problemContent)
+  	        f.Sync()
 		}
 
 		body, err := ioutil.ReadAll(resp.Body)
