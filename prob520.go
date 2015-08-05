@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=520
+
 Simbers
 
 We define a simber to be a positive integer in which any odd digit, if present, occurs an odd number of times, and any even digit, if present, occurs an even number of times.

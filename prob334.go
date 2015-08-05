@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=334
+
 Spilling the beans
 
 In Plato's heaven, there exist an infinite number of bowls in a straight line.

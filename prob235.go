@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=235
+
 An Arithmetic Geometric sequence
 
 

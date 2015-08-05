@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=207
+
 Integer partition equations
 
 For some positive integers k, there exists an integer partition of the form   4t = 2t + k,

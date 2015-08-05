@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=502
+
 Counting Castles
 
 We define a block to be a rectangle with a height of 1 and an integer-valued length. Let a castle be a configuration of stacked blocks.

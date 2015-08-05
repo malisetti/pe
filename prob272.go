@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=272
+
 Modular Cubes, part 2
 
 

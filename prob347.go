@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=347
+
 Largest integer divisible by two primes
 
 

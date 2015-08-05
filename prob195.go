@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=195
+
 Inscribed circles of triangles with one angle of 60 degrees
 
 Let's call an integer sided triangle with exactly one angle of 60 degrees a 60-degree triangle.

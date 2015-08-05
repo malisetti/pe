@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=332
+
 Spherical triangles
 
 A spherical triangle is a figure formed on the surface of a sphere by three great circular arcs intersecting pairwise in three vertices.

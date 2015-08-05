@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=156
+
 Counting Digits
 
 Starting from zero the natural numbers are written down in base 10 like this:

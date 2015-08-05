@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=443
+
 GCD sequence
 
 Let g(n) be a sequence defined as follows:

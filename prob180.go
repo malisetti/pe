@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=180
+
 Rational zeros of a function of three variables
 
 For any integer n, consider the three functions

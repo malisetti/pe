@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=161
+
 Triominoes
 
 A triomino is a shape consisting of three squares joined via the edges.

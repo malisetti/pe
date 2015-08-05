@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=293
+
 Pseudo-Fortunate Numbers
 
 

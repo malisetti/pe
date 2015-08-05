@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=422
+
 Sequence of points on a hyperbola
 
 Let H be the hyperbola defined by the equation 12x2 + 7xy - 12y2 = 625.

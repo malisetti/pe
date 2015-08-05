@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=370
+
 Geometric triangles
 
 Let us define a geometric triangle as an integer sided triangle with sides a ≤ b ≤ c so that its sides form a geometric progression, i.e. b2 = a · c .  

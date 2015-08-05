@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=363
+
 Bézier Curves
 
 A cubic Bézier curve is defined by four points: P0, P1, P2 and P3.

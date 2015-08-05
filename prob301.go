@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=301
+
 Nim
 
 Nim is a game played with heaps of stones, where two players take it in turn to remove any number of stones from any heap until no stones remain.

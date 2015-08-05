@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=472
+
 Comfortable Distance II
 
 There are N seats in a row. N people come one after another to fill the seats according to the following rules:

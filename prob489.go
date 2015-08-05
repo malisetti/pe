@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=489
+
 Common factors between two sequences
 
 Let G(a, b) be the smallest non-negative integer n for which gcd(n3 + b, (n + a)3 + b) is maximized.

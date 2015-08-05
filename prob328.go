@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=328
+
 Lowest-cost Search
 
 We are trying to find a hidden number selected from the set of integers {1, 2, ..., n} by asking questions. 

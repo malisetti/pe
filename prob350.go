@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=350
+
 Constraining the least greatest and the greatest least
 
 A list of size n is a sequence of n natural numbers. Examples are (2,4,6), (2,6,4), (10,6,15,6), and (11).

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=337
+
 Totient Stairstep Sequences
 
 Let {a1, a2,..., an} be an integer sequence of length n such that:

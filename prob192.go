@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=192
+
 Best Approximations
 
 Let x be a real number.

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=295
+
 Lenticular holes
 
 We call the convex area enclosed by two circles a lenticular hole if:

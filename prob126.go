@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=126
+
 Cuboid layers
 
 The minimum number of cubes to cover every visible face on a cuboid measuring 3 x 2 x 1 is twenty-two.

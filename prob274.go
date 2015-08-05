@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=274
+
 Divisibility Multipliers
 
 For each integer p > 1 coprime to 10 there is a positive divisibility multiplier m < p which preserves divisibility by p for the following function on any positive integer, n:

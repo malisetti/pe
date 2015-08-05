@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=314
+
 The Mouse on the Moon
 
 

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=331
+
 Cross flips
 
 N×N disks are placed on a square game board. Each disk has a black side and white side.

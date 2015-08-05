@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=457
+
 A polynomial modulo the square of a prime
 
 

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=358
+
 Cyclic numbers
 
 A cyclic number with n digits has a very interesting property:

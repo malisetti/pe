@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=296
+
 Angular Bisector and Tangent
 
 

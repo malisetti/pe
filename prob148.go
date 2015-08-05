@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=148
+
 Exploring Pascal's triangle
 
 We can easily verify that none of the entries in the first seven rows of Pascal's triangle are divisible by 7:

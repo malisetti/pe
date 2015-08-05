@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=203
+
 Squarefree Binomial Coefficients
 
 The binomial coefficients nCk can be arranged in triangular form, Pascal's triangle, like this:

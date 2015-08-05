@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=275
+
 Balanced Sculptures
 
 Let us define a balanced sculpture of order n as follows:

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=465
+
 Polar polygons
 
 The kernel of a polygon is defined by the set of points from which the entire polygon's boundary is visible. We define a polar polygon as a polygon for which the origin is strictly contained inside its kernel.

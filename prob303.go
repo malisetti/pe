@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=303
+
 Multiples with small digits
 
 

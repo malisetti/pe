@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=244
+
 Sliders
 
 You probably know the game Fifteen Puzzle. Here, instead of numbered tiles, we have seven red tiles and eight blue tiles.

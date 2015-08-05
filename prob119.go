@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=119
+
 Digit power sum
 
 The number 512 is interesting because it is equal to the sum of its digits raised to some power: 5 + 1 + 2 = 8, and 83 = 512. Another example of a number with this property is 614656 = 284.

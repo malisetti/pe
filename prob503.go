@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=503
+
 Compromise or persist
 
 Alice is playing a game with n cards numbered 1 to n.

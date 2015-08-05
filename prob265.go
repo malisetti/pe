@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=265
+
 Binary Circles
 
 2N binary digits can be placed in a circle so that all the N-digit clockwise subsequences are distinct.

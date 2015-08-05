@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=504
+
 Square on the Inside
 
 Let ABCD be a quadrilateral whose vertices are lattice points lying on the coordinate axes as follows:

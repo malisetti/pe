@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=467
+
 Superinteger
 
 An integer s is called a superinteger of another integer n if the digits of n form a subsequence of the digits of s.

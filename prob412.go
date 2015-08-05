@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=412
+
 Gnomon numbering
 
 For integers m, n (0 ≤ n < m), let L(m, n) be an m×m grid with the top-right n×n grid removed.

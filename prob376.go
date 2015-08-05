@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=376
+
 Nontransitive sets of dice
 
 

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=434
+
 Rigid graphs
 
 Recall that a graph is a collection of vertices and edges connecting the vertices, and that two vertices connected by an edge are called adjacent.

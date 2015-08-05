@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=460
+
 An ant on the move
 
 

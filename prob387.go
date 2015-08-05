@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=387
+
 Harshad Numbers
 
 A Harshad or Niven number is a number that is divisible by the sum of its digits.

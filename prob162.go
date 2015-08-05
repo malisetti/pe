@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=162
+
 Hexadecimal numbers
 
 In  the hexadecimal number system numbers are represented using 16 different digits:

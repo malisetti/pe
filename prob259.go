@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=259
+
 Reachable Numbers
 
 A positive integer will be called reachable if it can result from an arithmetic expression obeying the following rules:

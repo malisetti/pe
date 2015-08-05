@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=92
+
 Square digit chains
 
 

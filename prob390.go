@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=390
+
 Triangles with non rational sides and integral area
 
 Consider the triangle with sides √5, √65 and √68.

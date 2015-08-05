@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=499
+
 St. Petersburg Lottery
 
 A gambler decides to participate in a special lottery. In this lottery the gambler plays a series of one or more games.

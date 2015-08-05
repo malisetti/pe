@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=253
+
 Tidying up
 
 A small child has a “number caterpillar” consisting of forty jigsaw pieces, each with one number on it, which, when connected together in a line, reveal the numbers 1 to 40 in order.

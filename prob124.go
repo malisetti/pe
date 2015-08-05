@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=124
+
 Ordered radicals
 
 The radical of n, rad(n), is the product of the distinct prime factors of n. For example, 504 = 23 × 32 × 7, so rad(504) = 2 × 3 × 7 = 42.

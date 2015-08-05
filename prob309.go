@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=309
+
 Integer Ladders
 
 In the classic "Crossing Ladders" problem, we are given the lengths x and y of two ladders resting on the opposite walls of a narrow, level street. We are also given the height h above the street where the two ladders cross and we are asked to find the width of the street (w).

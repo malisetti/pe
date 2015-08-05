@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=348
+
 Sum of a square and a cube
 
 Many numbers can be expressed as the sum of a square and a cube. Some of them in more than one way.

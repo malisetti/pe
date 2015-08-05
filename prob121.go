@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=121
+
 Disc game prize fund
 
 A bag contains one red disc and one blue disc. In a game of chance a player takes a disc at random and its colour is noted. After each turn the disc is returned to the bag, an extra red disc is added, and another disc is taken at random.

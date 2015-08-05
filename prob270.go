@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=270
+
 Cutting Squares
 
 A square piece of paper with integer dimensions N×N is placed with a corner at the origin and two of its sides along the x- and y-axes. Then, we cut it up respecting the following rules:

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=273
+
 Sum of Squares
 
 Consider equations of the form: a2 + b2 = N, 0 ≤ a ≤ b, a, b and N integer.

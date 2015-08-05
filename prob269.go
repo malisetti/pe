@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=269
+
 Polynomials with at least one integer root
 
 A root or zero of a polynomial P(x) is a solution to the equation P(x) = 0. 

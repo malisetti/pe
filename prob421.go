@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=421
+
 Prime factors of n15+1
 
 

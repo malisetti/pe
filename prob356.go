@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=356
+
 Largest roots of cubic polynomials
 
 

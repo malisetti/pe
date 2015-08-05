@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=506
+
 Clock sequence
 
 Consider the infinite repeating sequence of digits:

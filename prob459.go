@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=459
+
 Flipping game
 
 The flipping game is a two player game played on a N by N square board.

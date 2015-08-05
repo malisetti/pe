@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=122
+
 Efficient exponentiation
 
 The most naive way of computing n15 requires fourteen multiplications:

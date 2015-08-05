@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=279
+
 Triangles with integral sides and an integral angle 
 
 

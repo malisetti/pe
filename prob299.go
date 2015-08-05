@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=299
+
 Three similar triangles
 
 Four points with integer coordinates are selected:A(a, 0), B(b, 0), C(0, c) and D(0, d), 

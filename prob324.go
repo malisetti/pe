@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=324
+
 Building a tower
 
 Let f(n) represent the number of ways one can fill a 3×3×n tower with blocks of 2×1×1. You're allowed to rotate the blocks in any way you like; however, rotations, reflections etc of the tower itself are counted as distinct.

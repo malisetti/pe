@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=116
+
 Red, green or blue tiles
 
 A row of five black square tiles is to have a number of its tiles replaced with coloured oblong tiles chosen from red (length two), green (length three), or blue (length four).

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=205
+
 Dice Game
 
 Peter has nine four-sided (pyramidal) dice, each with faces numbered 1, 2, 3, 4.

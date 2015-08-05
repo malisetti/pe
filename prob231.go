@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=231
+
 The prime factorisation of binomial coefficients
 
 The binomial coefficient 10C3 = 120.

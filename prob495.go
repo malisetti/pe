@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=495
+
 Writing n as the product of k distinct positive integers
 
 Let W(n,k) be the number of ways in which n can be written as the product of k distinct positive integers.

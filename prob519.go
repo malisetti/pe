@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=519
+
 Tricolored Coin Fountains
 
 An arrangement of coins in one or more rows with the bottom row being a block without gaps and every coin in a higher row touching exactly two coins in the row below is called a fountain of coins. Let f(n) be the number of possible fountains with n coins. For 4 coins there are three possible arrangements:

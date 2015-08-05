@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=140
+
 Modified Fibonacci golden nuggets
 
 Consider the infinite polynomial series AG(x) = xG1 + x2G2 + x3G3 + ..., where Gk is the kth term of the second order recurrence relation Gk = Gk−1 + Gk−2, G1 = 1 and G2 = 4; that is, 1, 4, 5, 9, 14, 23, ... .

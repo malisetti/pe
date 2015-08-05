@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=428
+
 Necklace of circles
 
 Let a, b and c be positive numbers.

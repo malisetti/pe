@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=183
+
 Maximum product of parts
 
 Let N be a positive integer and let N be split into k equal parts, r = N/k, so that N = r + r + ... + r.

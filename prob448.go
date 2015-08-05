@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=448
+
 Average least common multiple
 
 

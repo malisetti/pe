@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=470
+
 Super Ramvok
 
 Consider a single game of Ramvok:

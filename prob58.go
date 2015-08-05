@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=58
+
 Spiral primes
 
 Starting with 1 and spiralling anticlockwise in the following way, a square spiral with side length 7 is formed.

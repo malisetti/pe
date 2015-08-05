@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=343
+
 Fractional Sequences
 
 For any positive integer k, a finite sequence ai of fractions xi/yi is defined by:

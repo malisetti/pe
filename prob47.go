@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=47
+
 Distinct primes factors
 
 The first two consecutive numbers to have two distinct prime factors are:

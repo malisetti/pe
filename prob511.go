@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=511
+
 Sequences with nice divisibility properties
 
 Let Seq(n,k) be the number of positive-integer sequences {ai}1≤i≤n of length n such that:

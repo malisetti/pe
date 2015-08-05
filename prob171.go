@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=171
+
 Finding numbers for which the sum of the squares of the digits is a square
 
 For a positive integer n, let f(n) be the sum of the squares of the digits (in base 10) of n, e.g.

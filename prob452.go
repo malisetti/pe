@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=452
+
 Long Products
 
 Define F(m,n) as the number of n-tuples of positive integers for which the product of the elements doesn't exceed m.

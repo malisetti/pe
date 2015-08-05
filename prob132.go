@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=132
+
 Large repunit factors
 
 A number consisting entirely of ones is called a repunit. We shall define R(k) to be a repunit of length k.

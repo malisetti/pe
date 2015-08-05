@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=302
+
 Strong Achilles Numbers
 
 

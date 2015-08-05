@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=323
+
 Bitwise-OR operations on random integers
 
 Let y0, y1, y2,... be a sequence of random unsigned 32 bit integers

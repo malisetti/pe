@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=84
+
 Monopoly odds
 
 In the game, Monopoly, the standard board is set up in the following way:

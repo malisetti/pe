@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=455
+
 Powers With Trailing Digits
 
 Let f(n) be the largest positive integer x less than 109 such that the last 9 digits of nx form the number x (including leading zeros), or zero if no such integer exists.

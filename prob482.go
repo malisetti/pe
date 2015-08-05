@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=482
+
 The incenter of a triangle
 
 

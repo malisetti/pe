@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=308
+
 An amazing Prime-generating Automaton
 
 A program written in the programming language Fractran consists of a list of fractions.

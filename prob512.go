@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=512
+
 Sums of totients of powers
 
 Let $\varphi(n)$ be Euler's totient function.

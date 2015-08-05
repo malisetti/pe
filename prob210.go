@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=210
+
 Obtuse Angled Triangles
 
 Consider the set S(r) of points (x,y) with integer coordinates satisfying |x| + |y| ≤ r. 

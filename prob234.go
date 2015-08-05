@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=234
+
 Semidivisible numbers
 
 For an integer n ≥ 4, we define the lower prime square root of n, denoted by lps(n), as the largest prime ≤ √n and the upper prime square root of n, ups(n), as the smallest prime ≥ √n.

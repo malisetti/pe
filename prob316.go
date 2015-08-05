@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=316
+
 Numbers in decimal expansions
 
 Let p = p1 p2 p3 ... be an infinite sequence of random digits, selected from {0,1,2,3,4,5,6,7,8,9} with equal probability.

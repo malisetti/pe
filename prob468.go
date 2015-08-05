@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=468
+
 Smooth divisors of binomial coefficients
 
 An integer is called B-smooth if none of its prime factors is greater than B.

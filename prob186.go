@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=186
+
 Connectedness of a network
 
 Here are the records from a busy telephone system with one million users:

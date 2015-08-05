@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=492
+
 Exploding sequence
 
 Define the sequence a1, a2, a3, ... as:

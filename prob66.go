@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=66
+
 Diophantine equation
 
 Consider quadratic Diophantine equations of the form:

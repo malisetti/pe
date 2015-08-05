@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=498
+
 Remainder of polynomial division
 
 For positive integers n and m, we define two polynomials Fn(x) = xn and Gm(x) = (x-1)m.

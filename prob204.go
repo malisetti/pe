@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=204
+
 Generalised Hamming Numbers
 
 A Hamming number is a positive number which has no prime factor larger than 5.

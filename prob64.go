@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=64
+
 Odd period square roots
 
 All square roots are periodic when written as continued fractions and can be written in the form:

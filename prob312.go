@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=312
+
 Cyclic paths on Sierpiński graphs
 
 - A Sierpiński graph of order-1 (S1) is an equilateral triangle.

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=185
+
 Number Mind
 
 The game Number Mind is a variant of the well known game Master Mind.

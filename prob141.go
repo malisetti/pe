@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=141
+
 Investigating progressive numbers, n, which are also square
 
 A positive integer, n, is divided by d and the quotient and remainder are q and r respectively. In addition d, q, and r are consecutive positive integer terms in a geometric sequence, but not necessarily in that order.

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=212
+
 Combined Volume of Cuboids
 
 An axis-aligned cuboid, specified by parameters { (x0,y0,z0), (dx,dy,dz) }, consists of all points (X,Y,Z) such that x0 ≤ X ≤ x0+dx, y0 ≤ Y ≤ y0+dy and z0 ≤ Z ≤ z0+dz.  The volume of the cuboid is the product, dx × dy × dz.  The combined volume of a collection of cuboids is the volume of their union and will be less than the sum of the individual volumes if any cuboids overlap.

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=283
+
 Integer sided triangles for which the  area/perimeter ratio is integral
 
 

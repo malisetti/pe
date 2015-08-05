@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=374
+
 Maximum Integer Partition Product
 
 An integer partition of a number n is a way of writing n as a sum of positive integers.

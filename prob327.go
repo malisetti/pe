@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=327
+
 Rooms of Doom
 
 A series of three rooms are connected to each other by automatic doors.

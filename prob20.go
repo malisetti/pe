@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=20
+
 Factorial digit sum
 
 n! means n × (n − 1) × ... × 3 × 2 × 1

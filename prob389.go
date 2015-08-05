@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=389
+
 Platonic Dice
 
 

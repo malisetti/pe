@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=201
+
 Subsets with a unique sum
 
 For any set A of numbers, let sum(A) be the sum of the elements of A.

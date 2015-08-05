@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=130
+
 Composites with prime repunit property
 
 

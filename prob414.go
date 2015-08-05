@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=414
+
 Kaprekar constant
 
 

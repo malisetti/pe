@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=292
+
 Pythagorean Polygons
 
 We shall define a pythagorean polygon  to be a convex polygon with the following properties:

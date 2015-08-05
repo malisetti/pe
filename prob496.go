@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=496
+
 Incenter and circumcenter of triangle
 
 Given an integer sided triangle ABC:

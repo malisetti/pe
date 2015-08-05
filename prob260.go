@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=260
+
 Stone Game
 
 A game is played with three piles of stones and two players.

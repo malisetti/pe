@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=285
+
 Pythagorean odds
 
 Albert chooses a positive integer k, then two real numbers a, b are randomly chosen in the interval [0,1] with uniform distribution.

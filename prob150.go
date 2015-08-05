@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=150
+
 Searching a triangular array for a sub-triangle having minimum-sum
 
 In a triangular array of positive and negative integers, we wish to find a sub-triangle such that the sum of the numbers it contains is the smallest possible.

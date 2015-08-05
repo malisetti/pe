@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=300
+
 Protein folding
 
 In a very simplified form, we can consider proteins as strings consisting of hydrophobic (H) and polar (P) elements, e.g. HHPPHHHPHHPH. 

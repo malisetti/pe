@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=230
+
 Fibonacci Words
 
 For any two strings of digits, A and B, we define FA,B to be the sequence (A,B,AB,BAB,ABBAB,...) in which each term is the concatenation of the previous two.

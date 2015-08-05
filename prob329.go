@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=329
+
 Prime Frog
 
 Susan has a prime frog.

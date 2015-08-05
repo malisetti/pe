@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=55
+
 Lychrel numbers
 
 If we take 47, reverse and add, 47 + 74 = 121, which is palindromic.

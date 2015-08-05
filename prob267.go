@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=267
+
 Billionaire
 
 You are given a unique investment opportunity.

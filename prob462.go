@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=462
+
 Permutation of 3-smooth numbers
 
 

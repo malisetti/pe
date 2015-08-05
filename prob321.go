@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=321
+
 Swapping Counters
 
 A horizontal row comprising of 2n + 1 squares has n red counters placed at one end and n blue counters at the other end, being separated by a single empty square in the centre. For example, when n = 3.

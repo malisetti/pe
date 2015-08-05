@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=521
+
 Smallest prime factor
 
 

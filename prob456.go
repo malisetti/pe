@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=456
+
 Triangles containing the origin II
 
 Define:

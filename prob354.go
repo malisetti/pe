@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=354
+
 Distances in a bee's honeycomb 
 
 Consider a honey bee's honeycomb where each cell is a perfect regular hexagon with side length 1.

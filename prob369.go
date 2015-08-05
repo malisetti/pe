@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=369
+
 Badugi
 
 In a standard 52 card deck of playing cards, a set of 4 cards is a Badugi if it contains 4 cards with no pairs and no two cards of the same suit.

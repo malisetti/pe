@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=264
+
 Triangle Centres
 
 Consider all the triangles having:

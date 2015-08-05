@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=427
+
 n-sequences
 
 A sequence of integers S = {si} is called an n-sequence if it has n elements and each element si satisfies 1 ≤ si ≤ n. Thus there are nn distinct n-sequences in total.

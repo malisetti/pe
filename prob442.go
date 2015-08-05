@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=442
+
 Eleven-free integers
 
 An integer is called eleven-free if its decimal expansion does not contain any substring representing a power of 11 except 1.

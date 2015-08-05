@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=486
+
 Palindrome-containing strings
 
 Let F5(n) be the number of strings s such that:

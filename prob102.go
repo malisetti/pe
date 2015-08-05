@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=102
+
 Triangle containment
 
 Three distinct points are plotted at random on a Cartesian plane, for which -1000 ≤ x, y ≤ 1000, such that a triangle is formed.

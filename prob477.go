@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=477
+
 Number Sequence Game
 
 The number sequence game starts with a sequence S of N numbers written on a line.

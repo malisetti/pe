@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=438
+
 Integer part of polynomial equation's solutions
 
 

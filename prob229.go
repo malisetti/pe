@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=229
+
 Four Representations using Squares
 
 Consider the number 3600. It is very special, because

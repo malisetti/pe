@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=21
+
 Amicable numbers
 
 Let d(n) be defined as the sum of proper divisors of n (numbers less than n which divide evenly into n).

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=237
+
 Tours on a 4 x n playing board
 
 Let T(n) be the number of tours over a 4 × n playing board such that:

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=514
+
 Geoboard Shapes
 
 A geoboard (of order N) is a square board with equally-spaced pins protruding from the surface, representing an integer point lattice for coordinates 0 ≤ x,y ≤ N.

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=188
+
 The hyperexponentiation of a number
 
 The hyperexponentiation or tetration of a number a by a positive integer b, denoted by a↑↑b or ba, is recursively defined by:

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=107
+
 Minimal network
 
 The following undirected network consists of seven vertices and twelve edges with a total weight of 243.

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=226
+
 A Scoop of Blancmange
 
 The blancmange curve is the set of points (x,y) such that 0 ≤ x ≤ 1 and  ,where s(x) = the distance from x to the nearest integer.

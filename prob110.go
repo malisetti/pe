@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=110
+
 Diophantine reciprocals II
 
 In the following equation x, y, and n are positive integers.

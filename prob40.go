@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=40
+
 Champernowne's constant
 
 An irrational decimal fraction is created by concatenating the positive integers:

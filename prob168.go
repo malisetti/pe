@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=168
+
 Number Rotations
 
 Consider the number 142857. We can right-rotate this number by moving the last digit (7) to the front of it, giving us 714285.

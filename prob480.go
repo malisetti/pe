@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=480
+
 The Last Question
 
 Consider all the words which can be formed by selecting letters, in any order, from the phrase:

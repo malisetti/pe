@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=197
+
 Investigating the behaviour of a recursively defined sequence
 
 Given is the function f(x) = ⌊230.403243784-x2⌋ × 10-9 ( ⌊ ⌋ is the floor-function),

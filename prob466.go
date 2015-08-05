@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=466
+
 Distinct terms in a multiplication table
 
 

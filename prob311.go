@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=311
+
 Biclinic Integral Quadrilaterals
 
 ABCD is a convex, integer sided quadrilateral with 1 ≤ AB < BC < CD < AD.

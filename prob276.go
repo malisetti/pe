@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=276
+
 Primitive Triangles
 
 Consider the triangles with integer sides a, b and c with a ≤ b ≤ c.

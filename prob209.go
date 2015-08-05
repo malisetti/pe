@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=209
+
 Circular Logic
 
 A k-input binary truth table is a map from k input bits

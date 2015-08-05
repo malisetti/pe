@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=487
+
 Sums of power sums
 
 Let fk(n) be the sum of the kth powers of the first n positive integers.

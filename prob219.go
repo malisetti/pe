@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=219
+
 Skew-cost coding
 
 Let A and B be bit strings (sequences of 0's and 1's).

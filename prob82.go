@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=82
+
 Path sum: three ways
 
 NOTE: This problem is a more challenging version of Problem 81.

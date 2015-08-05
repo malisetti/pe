@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=247
+
 Squares under a hyperbola
 
 Consider the region constrained by 1 ≤ x and 0 ≤ y ≤ 1/x.

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=158
+
 Exploring strings for which only one character comes lexicographically after its neighbour to the left
 
 Taking three different letters from the 26 letters of the alphabet, character strings of length three can be formed.

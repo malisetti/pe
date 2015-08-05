@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=333
+
 Special partitions
 
 All positive integers can be partitioned in such a way that each and every term of the partition can be expressed as 2ix3j, where i,j ≥ 0.

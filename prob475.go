@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=475
+
 Music festival
 
 12n musicians participate at a music festival. On the first day, they form 3n quartets and practice all day.

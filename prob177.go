@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=177
+
 Integer angled Quadrilaterals
 
 Let ABCD be a convex quadrilateral, with diagonals AC and BD. At each vertex the diagonal makes an angle with each of the two sides, creating eight corner angles.

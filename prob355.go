@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=355
+
 Maximal coprime subset
 
 

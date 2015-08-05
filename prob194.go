@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=194
+
 Coloured Configurations
 
 Consider graphs built with the units A: 

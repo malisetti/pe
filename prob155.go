@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=155
+
 Counting Capacitor Circuits
 
 An electric circuit uses exclusively identical capacitors of the same value C.

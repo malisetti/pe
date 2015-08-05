@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=38
+
 Pandigital multiples
 
 Take the number 192 and multiply it by each of 1, 2, and 3:

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=461
+
 Almost Pi
 
 Let fn(k) = ek/n - 1, for all non-negative integers k.

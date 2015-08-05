@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=474
+
 Last digits of divisors
 
 

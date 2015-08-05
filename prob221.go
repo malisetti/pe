@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=221
+
 Alexandrian Integers
 
 We shall call a positive integer A an "Alexandrian integer", if there exist integers p, q, r such that:

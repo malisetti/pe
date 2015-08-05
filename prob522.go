@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=522
+
 Hilbert's Blackout
 
 Despite the popularity of Hilbert's infinite hotel, Hilbert decided to try managing extremely large finite hotels, instead. 

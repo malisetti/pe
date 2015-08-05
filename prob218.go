@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=218
+
 Perfect right-angled triangles
 
 Consider the right angled triangle with sides a=7, b=24 and c=25.

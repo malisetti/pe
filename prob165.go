@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=165
+
 Intersections
 
 A segment is uniquely defined by its two endpoints. By considering two line segments in plane geometry there are three possibilities: 

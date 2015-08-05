@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=189
+
 Tri-colouring a triangular grid
 
 Consider the following configuration of 64 triangles:

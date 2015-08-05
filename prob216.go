@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=216
+
 Investigating the primality of numbers of the form 2n2-1
 
 Consider numbers t(n) of the form t(n) = 2n2-1 with n > 1.

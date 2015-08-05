@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=433
+
 Steps in Euclid's algorithm
 
 

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=516
+
 5-smooth totients
 
 

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=143
+
 Investigating the Torricelli point of a triangle
 
 Let ABC be a triangle with all interior angles being less than 120 degrees. Let X be any point inside the triangle and let XA = p, XC = q, and XB = r.

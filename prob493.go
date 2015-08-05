@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=493
+
 Under The Rainbow
 
 70 colored balls are placed in an urn, 10 for each of the seven rainbow colors.

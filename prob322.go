@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=322
+
 Binomial coefficients divisible by 10
 
 

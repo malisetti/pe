@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=361
+
 Subsequence of Thue-Morse sequence
 
 The Thue-Morse sequence {Tn} is a binary sequence satisfying:

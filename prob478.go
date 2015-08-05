@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=478
+
 Mixtures
 
 Let us consider mixtures of three substances: A, B and C. A mixture can be described by a ratio of the amounts of A, B, and C in it, i.e., (a : b : c). For example, a mixture described by the ratio (2 : 3 : 5) contains 20% A, 30% B and 50% C.

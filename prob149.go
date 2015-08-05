@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=149
+
 Searching for a maximum-sum subsequence
 
 Looking at the table below, it is easy to verify that the maximum possible sum of adjacent numbers in any direction (horizontal, vertical, diagonal or anti-diagonal) is 16 (= 8 + 7 + 1).

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=241
+
 Perfection Quotients
 
 For a positive integer n, let σ(n) be the sum of all divisors of n, so e.g. σ(6) = 1 + 2 + 3 + 6 = 12.

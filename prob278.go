@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=278
+
 Linear Combinations of Semiprimes
 
 

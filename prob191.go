@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=191
+
 Prize Strings
 
 A particular school offers cash rewards to children with good attendance and punctuality. If they are absent for three consecutive days or late on more than one occasion then they forfeit their prize.

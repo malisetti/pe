@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=294
+
 Sum of digits - experience #23
 
 

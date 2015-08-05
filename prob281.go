@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=281
+
 Pizza Toppings
 
 You are given a pizza (perfect circle) that has been cut into m·n equal pieces and you want to have exactly one topping on each slice.

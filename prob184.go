@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=184
+
 Triangles containing the origin
 
 Consider the set Ir of points (x,y) with integer co-ordinates in the interior of the circle with radius r, centered at the origin, i.e. x2 + y2 < r2.

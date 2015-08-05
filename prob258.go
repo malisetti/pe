@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=258
+
 A lagged Fibonacci sequence
 
 A sequence is defined as:

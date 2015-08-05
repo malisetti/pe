@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=408
+
 Admissible paths through a grid
 
 Let's call a lattice point (x, y) inadmissible if x, y and x + y are all positive perfect squares.

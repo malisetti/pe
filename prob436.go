@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=436
+
 Unfair wager
 
 Julie proposes the following wager to her sister Louise.

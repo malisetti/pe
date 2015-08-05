@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=220
+
 Heighway Dragon
 
 Let D0 be the two-letter string "Fa".  For n≥1, derive Dn from Dn-1 by the string-rewriting rules:

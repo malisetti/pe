@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=488
+
 Unbalanced Nim
 
 Alice and Bob have enjoyed playing Nim every day. However, they finally got bored of playing ordinary three-heap Nim.

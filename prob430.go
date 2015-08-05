@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=430
+
 Range flips
 
 N disks are placed in a row, indexed 1 to N from left to right.

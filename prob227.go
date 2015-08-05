@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=227
+
 The Chase
 
 "The Chase" is a game played with two dice and an even number of players.

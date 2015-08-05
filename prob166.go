@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=166
+
 Criss Cross
 
 A 4x4 grid is filled with digits d, 0 ≤ d ≤ 9.

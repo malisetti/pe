@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=263
+
 An engineers' dream come true
 
 

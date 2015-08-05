@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=403
+
 Lattice points enclosed by parabola and line
 
 

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=336
+
 Maximix Arrangements
 
 A train is used to transport four carriages in the order: ABCD. However, sometimes when the train arrives to collect the carriages they are not in the correct order. 

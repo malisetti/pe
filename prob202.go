@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=202
+
 Laserbeam
 
 Three mirrors are arranged in the shape of an equilateral triangle, with their reflective surfaces pointing inwards. There is an infinitesimal gap at each vertex of the triangle through which a laser beam may pass.

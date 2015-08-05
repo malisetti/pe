@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=50
+
 Consecutive prime sum
 
 

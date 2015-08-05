@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=384
+
 Rudin-Shapiro sequence
 
 Define the sequence a(n) as the number of adjacent pairs of ones in the binary expansion of n (possibly overlapping).

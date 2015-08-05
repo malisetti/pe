@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=167
+
 Investigating Ulam sequences
 
 For two positive integers a and b, the Ulam sequence U(a,b) is defined by U(a,b)1 = a, U(a,b)2 = b and for k > 2,

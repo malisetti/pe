@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=54
+
 Poker hands
 
 In the card game poker, a hand consists of five cards and are ranked, from lowest to highest, in the following way:

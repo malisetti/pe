@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=344
+
 Silver dollar game
 
 One variant of N.G. de Bruijn's silver dollar game can be described as follows:

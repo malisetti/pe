@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=228
+
 Minkowski Sums
 
 Let Sn be the regular n-sided polygon – or shape – whose vertices 

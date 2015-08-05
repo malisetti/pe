@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=249
+
 Prime Subset Sums
 
 Let S = {2, 3, 5, ..., 4999} be the set of prime numbers less than 5000.

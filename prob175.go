@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=175
+
 Fractions involving the number of different ways a number can be expressed as a sum of powers of 2
 
 Define f(0)=1 and f(n) to be the number of ways to write n as a sum of powers of 2 where no power occurs more than twice. 

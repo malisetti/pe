@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=196
+
 Prime triplets
 
 Build a triangle from all positive integers in the following way:

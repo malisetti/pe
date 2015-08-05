@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=413
+
 One-child Numbers
 
 We say that a d-digit positive number (no leading zeros) is a one-child number if exactly one of its sub-strings is divisible by d.

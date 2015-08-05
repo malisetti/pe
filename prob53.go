@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=53
+
 Combinatoric selections
 
 There are exactly ten ways of selecting three from five, 12345:

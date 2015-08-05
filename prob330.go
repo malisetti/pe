@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=330
+
 Euler's Number
 
 An infinite sequence of real numbers a(n) is defined for all integers n as follows:

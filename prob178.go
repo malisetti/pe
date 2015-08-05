@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=178
+
 Step Numbers
 
 Consider the number 45656. 

@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=306
+
 Paper-strip Game
 
 The following game is a classic example of Combinatorial Game Theory:

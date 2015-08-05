@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=368
+
 A Kempner-like series
 
 

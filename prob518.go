@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=518
+
 Prime triples and geometric sequences
 
 Let S(n) = a+b+c over all triples (a,b,c) such that:

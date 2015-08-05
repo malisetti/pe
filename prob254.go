@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=254
+
 Sums of Digit Factorials
 
 Define f(n) as the sum of the factorials of the digits of n. For example, f(342) = 3! + 4! + 2! = 32.

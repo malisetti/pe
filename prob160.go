@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=160
+
 Factorial trailing digits
 
 For any N, let f(N) be the last five digits before the trailing zeroes in N!.

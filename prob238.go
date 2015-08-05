@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=238
+
 Infinite string tour
 
 

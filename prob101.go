@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=101
+
 Optimum polynomial
 
 If we are presented with the first k terms of a sequence it is impossible to say with certainty the value of the next term, as there are infinitely many polynomial functions that can model the sequence.

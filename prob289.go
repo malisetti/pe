@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=289
+
 Eulerian Cycles
 
 Let C(x,y) be a circle passing through the points (x, y), (x, y+1), (x+1, y) and (x+1, y+1).

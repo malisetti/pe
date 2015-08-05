@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=123
+
 Prime square remainders
 
 

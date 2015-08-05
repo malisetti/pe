@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=490
+
 Jumping frog
 
 There are n stones in a pond, numbered 1 to n. Consecutive stones are spaced one unit apart.

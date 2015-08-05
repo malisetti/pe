@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=80
+
 Square root digital expansion
 
 

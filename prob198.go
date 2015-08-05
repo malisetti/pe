@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=198
+
 Ambiguous Numbers
 
 A best approximation to a real number x for the denominator bound d is a rational number r/s (in reduced form) with s ≤ d, so that any rational number p/q which is closer to x than r/s has q > d.

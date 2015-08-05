@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=409
+
 Nim Extreme
 
 Let n be a positive integer. Consider nim positions where:

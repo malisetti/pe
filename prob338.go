@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=338
+
 Cutting Rectangular Grid Paper
 
 A rectangular sheet of grid paper with integer dimensions w × h is given. Its grid spacing is 1.

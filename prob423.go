@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=423
+
 Consecutive die throws
 
 Let n be a positive integer.

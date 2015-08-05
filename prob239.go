@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=239
+
 Twenty-two Foolish Primes
 
 A set of disks numbered 1 through 100 are placed in a line in random order.

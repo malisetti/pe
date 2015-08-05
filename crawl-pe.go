@@ -17,7 +17,7 @@ const (
 var wg sync.WaitGroup
 
 func main() {
-	for i := 1; i <= 523; i++ {
+	for i := 1; i < 523; i++ {
 		wg.Add(1)
 		go fetch(i)
 	}
@@ -60,10 +60,12 @@ func fetch(i int) {
 		  	f, err := os.Create(filepath)
 		  	if err != nil {
 		  		panic(err)
+		  	} else {
+		  		println(url)
 		  	}
 	  	    defer f.Close()
 
-	  	    _, _ = f.WriteString("package main \n\n\n/**\n" + title + "\n" + problemContent + "**/\n")
+	  	    _, _ = f.WriteString("package main \n\n\n/**\n" + url + "\n\n" + title + "\n" + problemContent + "**/\n")
   	        f.Sync()
 		}
 	}

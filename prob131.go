@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=131
+
 Prime cube partnership
 
 There are some prime values, p, for which there exists a positive integer, n, such that the expression n3 + n2p is a perfect cube.

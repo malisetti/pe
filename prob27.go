@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=27
+
 Quadratic primes
 
 Euler discovered the remarkable quadratic formula:

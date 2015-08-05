@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=99
+
 Largest exponential
 
 Comparing two numbers written in index form like 211 and 37 is not difficult, as any calculator would confirm that 211 = 2048 < 37 = 2187.

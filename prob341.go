@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=341
+
 Golomb's self-describing sequence
 
 The Golomb's self-describing sequence {G(n)} is the only nondecreasing sequence of natural numbers such that n appears exactly G(n) times in the sequence. The values of G(n) for the first few n are

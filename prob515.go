@@ -2,6 +2,8 @@ package main
 
 
 /**
+https://projecteuler.net/problem=515
+
 Dissonant Numbers
 
 Let d(p,n,0) be the multiplicative inverse of n modulo prime p, defined as n × d(p,n,0) = 1 mod p.
