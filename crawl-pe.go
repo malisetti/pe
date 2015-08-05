@@ -16,8 +16,10 @@ const (
 )
 
 var wg sync.WaitGroup
+var pathSeparator string
 
 func main() {
+	pathSeparator = string(byte(os.PathSeparator))
 	for i := 1; i < 523; i++ {
 		wg.Add(1)
 		go fetch(i)
@@ -55,8 +57,7 @@ func fetch(i int) {
 				log.Fatal(err)
 			}
 
-			pathSeparator := string(byte(os.PathSeparator))
-			filepath := path + pathSeparator + pathSeparator + "prob" + num + ".go"
+			filepath := path + pathSeparator + "prob" + num + ".go"
 
 			f, err := os.Create(filepath)
 			if err != nil {
