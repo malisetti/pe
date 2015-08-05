@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=263
@@ -21,9 +20,9 @@ We may occasionally find a triple-pair, which means three consecutive sexy prime
 
 We shall call a number n such that :
 
-(n-9, n-3), (n-3,n+3), (n+3, n+9) form a triple-pair, and 
+(n-9, n-3), (n-3,n+3), (n+3, n+9) form a triple-pair, and
 the numbers n-8, n-4, n, n+4 and n+8 are all practical,
- 
+
 an engineers’ paradise.
 
 

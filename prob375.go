@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=375
@@ -15,15 +14,15 @@ table.p375 td {
 
 Let Sn be an integer sequence produced with the following pseudo-random number generator:
 
-  
+
     S0
-    = 
-    290797 
-  
+    =
+    290797
+
     Sn+1
-    = 
+    =
     Sn2 mod 50515093
-  
+
 
 
 

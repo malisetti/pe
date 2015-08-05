@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=84
@@ -24,47 +23,47 @@ JAIL
 
 
 H2
- 
+
 C1
 
 
 T2
- 
+
 U1
 
 
 H1
- 
+
 C2
 
 
 CH3
- 
+
 C3
 
 
 R4
- 
+
 R2
 
 
 G3
- 
+
 D1
 
 
 CC3
- 
+
 CC2
 
 
 G2
- 
+
 D2
 
 
 G1
- 
+
 D3
 
 

@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=511
@@ -10,7 +9,7 @@ Let Seq(n,k) be the number of positive-integer sequences {ai}1≤i≤n of length
 
   n is divisible by ai for 1 ≤ i ≤ n, and
   n + a1 + a2 + ... + an is divisible by k.
- 
+
 Examples:
 Seq(3,4) = 4, and the 4 sequences are:
 {1, 1, 3}

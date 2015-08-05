@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=246
@@ -16,7 +15,7 @@ The construction of the points of the ellipse is shown below.
 
 
 
-Given are the points M(-2000,1500) and G(8000,1500). 
+Given are the points M(-2000,1500) and G(8000,1500).
 Given is also the circle c with centre M and radius 15000.
 The locus of the points that are equidistant from G and c form an ellipse e.
 From a point P outside e the two tangents t1 and t2 to the ellipse are drawn.

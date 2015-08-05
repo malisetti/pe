@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=245
@@ -17,13 +16,13 @@ The resilience of a number d > 1 is then
 
 
 
-We further define the coresilience of a number n > 1 as C(n)= 
+We further define the coresilience of a number n > 1 as C(n)=
 n − φ(n)
 n − 1.
 
 
 The coresilience of a prime p is C(p)
-= 
+=
 1p − 1.
 
 

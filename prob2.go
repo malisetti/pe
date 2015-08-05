@@ -14,6 +14,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 import (
 	"fmt"
 )
+
 const (
 	LIMIT = 4000000
 )
@@ -22,8 +23,8 @@ func main() {
 	sum := 0
 	c := fib_generator()
 	for {
-		fib := <- c
-		if 0 == fib % 2 {
+		fib := <-c
+		if 0 == fib%2 {
 			sum += fib
 		} else if fib >= LIMIT {
 			break
@@ -34,14 +35,14 @@ func main() {
 }
 
 func fib_generator() chan int {
-  c := make(chan int)
+	c := make(chan int)
 
-  go func() { 
-    for i, j := 0, 1; j <= LIMIT; i, j = i+j,i {
-        c <- i
-    }
-    defer close(c)
-  }()
+	go func() {
+		for i, j := 0, 1; j <= LIMIT; i, j = i+j, i {
+			c <- i
+		}
+		defer close(c)
+	}()
 
-  return c
+	return c
 }

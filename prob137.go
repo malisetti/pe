@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=137
@@ -12,17 +11,17 @@ For this problem we shall be interested in values of x for which AF(x) is a posi
 
 
 Surprisingly AF(1/2)
- = 
+ =
 (1/2).1 + (1/2)2.1 + (1/2)3.2 + (1/2)4.3 + (1/2)5.5 + ...
 
 
- 
- = 
+
+ =
 1/2 + 1/4 + 2/8 + 3/16 + 5/32 + ...
 
 
- 
- = 
+
+ =
 2
 
 

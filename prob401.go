@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=401
@@ -18,6 +17,6 @@ Let SIGMA2 represent the summatory function of sigma2, that is SIGMA2(n)=∑sigm
 The first 6 values of SIGMA2 are: 1,6,16,37,63 and 113.
 
 
-Find SIGMA2(1015) modulo 109. 
+Find SIGMA2(1015) modulo 109.
 
 **/

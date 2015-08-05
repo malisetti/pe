@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=368
@@ -12,21 +11,21 @@ A Kempner-like series
     +
         1
         2
-        
-    
+
+
     +
-    
+
         1
         3
-        
-    
+
+
     +
-    
+
         1
         4
-        
-    
-    + ... is well known to be divergent. 
+
+
+    + ... is well known to be divergent.
 
 
 
@@ -43,67 +42,67 @@ These 20 omitted terms are:
 
         1
         111
-        
+
 
 ,
 
         1
         222
-        
+
 
 ,
 
         1
         333
-        
+
 
 ,
 
         1
         444
-        
+
 
 ,
 
         1
         555
-        
+
 
 ,
 
         1
         666
-        
+
 
 ,
 
         1
         777
-        
+
 
 ,
 
         1
         888
-        
+
 
 ,
 
         1
         999
-        
+
 
 ,
 
         1
         1000
-        
+
 
 ,
 
         1
         1110
-        
+
 
 ,
 
@@ -111,55 +110,55 @@ These 20 omitted terms are:
 
         1
         1111
-        
+
 
 ,
 
         1
         1112
-        
+
 
 ,
 
         1
         1113
-        
+
 
 ,
 
         1
         1114
-        
+
 
 ,
 
         1
         1115
-        
+
 
 ,
 
         1
         1116
-        
+
 
 ,
 
         1
         1117
-        
+
 
 ,
 
         1
         1118
-        
 
- and 
+
+ and
 
         1
         1119
-        
+
 
 .
 
@@ -167,7 +166,7 @@ These 20 omitted terms are:
 
 This series converges as well.
 
- 
+
 Find the value the series converges to.
 Give your answer rounded to 10 digits behind the decimal point.
 

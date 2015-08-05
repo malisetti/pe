@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=223
@@ -10,6 +9,6 @@ Let us call an integer sided triangle with sides a ≤ b ≤ c barely acute if t
 
 How many barely acute triangles are there with perimeter ≤ 25,000,000?
 
- 
+
 
 **/

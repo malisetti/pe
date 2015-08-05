@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=65
@@ -14,28 +13,28 @@ The square root of 2 can be written as an infinite continued fraction.
 1
 
 
- 
+
 2 +
 1
 
 
- 
- 
+
+
 2 +
 1
 
 
- 
- 
- 
+
+
+
 2 +
 1
 
 
- 
- 
- 
- 
+
+
+
+
 2 + ...
 
 
@@ -51,9 +50,9 @@ It turns out that the sequence of partial values of continued fractions for squa
 = 3/2
 
 
- 
+
 2
- 
+
 
 
 
@@ -64,15 +63,15 @@ It turns out that the sequence of partial values of continued fractions for squa
 = 7/5
 
 
- 
+
 2 +
 1
 
 
- 
- 
+
+
 2
- 
+
 
 
 
@@ -83,24 +82,24 @@ It turns out that the sequence of partial values of continued fractions for squa
 = 17/12
 
 
- 
+
 2 +
 1
- 
 
 
- 
- 
+
+
+
 2 +
 1
- 
 
 
- 
- 
- 
+
+
+
+
 2
- 
+
 
 
 
@@ -111,32 +110,32 @@ It turns out that the sequence of partial values of continued fractions for squa
 = 41/29
 
 
- 
+
 2 +
 1
 
 
- 
- 
+
+
 2 +
 1
- 
 
 
- 
- 
- 
+
+
+
+
 2 +
 1
- 
 
 
- 
- 
- 
- 
+
+
+
+
+
 2
- 
+
 
 
 

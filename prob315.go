@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=315
@@ -50,7 +49,7 @@ For number 137, Max's clock requires:
 "11"
 :
 0 transitions (number "11" is already turned on correctly)
-3 transitions (to turn off the first "1" and the bottom part of the second "1"; 
+3 transitions (to turn off the first "1" and the bottom part of the second "1";
 the top part is common with number "2").
 
 "2"
@@ -61,7 +60,7 @@ the top part is common with number "2").
 For a grand total of 30 transitions.
 
 Of course, Max's clock consumes less power than Sam's one.
-The two clocks are fed all the prime numbers between A = 107 and B = 2×107. 
+The two clocks are fed all the prime numbers between A = 107 and B = 2×107.
 Find the difference between the total number of transitions needed by Sam's clock and that needed by Max's one.
 
 **/

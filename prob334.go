@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=334
@@ -17,76 +16,76 @@ For example, consider two adjacent bowls containing 2 and 3 beans respectively, 
 You are given the following sequences:
 
 
-   
+
       t0 = 123456.
-   
 
 
 
 
-   
-      ti = 
-   
-   
-   
-   
-      
-      
-      
-         
+
+
+      ti =
+
+
+
+
+
+
+
+
          ti-1
          2
-         
-      
-      
+
+
+
          ,
-      
-      
-      
+
+
+
          if ti-1 is even
-      
-      
-      
-      
-      
-         
+
+
+
+
+
+
          ti-1
          2
-         
-      
-      
-         
-      
-      
-         926252, 
-      
-      
+
+
+
+
+
+
+         926252,
+
+
          if ti-1 is odd
-      
-      
-   
-   
 
 
-   
-   
-   
+
+
+
+
+
+
+
       where ⌊x⌋ is the floor function
-   
 
 
-   
-   
-   
+
+
+
+
       and  is the bitwise XOR operator.
-   
 
 
 
 
-   
+
+
       bi = ( ti mod 211) + 1.
-   
+
 
 
 The first two terms of the last sequence are b1 = 289 and b2 = 145.

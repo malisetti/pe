@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=257
@@ -7,7 +6,7 @@ https://projecteuler.net/problem=257
 Angular Bisectors
 
 
-Given is an integer sided triangle ABC with sides a ≤ b ≤ c. 
+Given is an integer sided triangle ABC with sides a ≤ b ≤ c.
 (AB = c, BC = a and AC = b).
 The angular bisectors of the triangle intersect the sides at points E, F and G (see picture below).
 

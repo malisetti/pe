@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=64
@@ -14,20 +13,20 @@ All square roots are periodic when written as continued fractions and can be wri
 1
 
 
- 
+
 a1 +
 1
 
 
- 
- 
+
+
 a2 +
 1
 
 
- 
- 
- 
+
+
+
 a3 + ...
 
 
@@ -36,16 +35,16 @@ For example, let us consider √23:
 
 
 
-√23 = 4 + √23 — 4 = 4 + 
+√23 = 4 + √23 — 4 = 4 +
 1
- = 4 + 
+ = 4 +
 1
 
 
- 
+
 1√23—4
- 
-1 + 
+
+1 +
 √23 – 37
 
 
@@ -58,28 +57,28 @@ If we continue we would get the following expansion:
 1
 
 
- 
+
 1 +
 1
 
 
- 
- 
+
+
 3 +
 1
 
 
- 
- 
- 
+
+
+
 1 +
 1
 
 
- 
- 
- 
- 
+
+
+
+
 8 + ...
 
 
@@ -89,74 +88,74 @@ The process can be summarised as follows:
 
 
 a0 = 4,
- 
+
 1√23—4
- = 
+ =
 √23+47
- = 1 + 
+ = 1 +
 √23—37
 
 
 a1 = 1,
- 
+
 7√23—3
- = 
+ =
 7(√23+3)14
- = 3 + 
+ = 3 +
 √23—32
 
 
 a2 = 3,
- 
+
 2√23—3
- = 
+ =
 2(√23+3)14
- = 1 + 
+ = 1 +
 √23—47
 
 
 a3 = 1,
- 
+
 7√23—4
- = 
+ =
 7(√23+4)7
- = 8 + 
+ = 8 +
 √23—4
 
 
 a4 = 8,
- 
+
 1√23—4
- = 
+ =
 √23+47
- = 1 + 
+ = 1 +
 √23—37
 
 
 a5 = 1,
- 
+
 7√23—3
- = 
+ =
 7(√23+3)14
- = 3 + 
+ = 3 +
 √23—32
 
 
 a6 = 3,
- 
+
 2√23—3
- = 
+ =
 2(√23+3)14
- = 1 + 
+ = 1 +
 √23—47
 
 
 a7 = 1,
- 
+
 7√23—4
- = 
+ =
 7(√23+4)7
- = 8 + 
+ = 8 +
 √23—4
 
 

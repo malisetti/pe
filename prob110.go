@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=110
@@ -11,9 +10,9 @@ In the following equation x, y, and n are positive integers.
 
 
 1x
- + 
+ +
 1y
- = 
+ =
 1n
 
 

@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=362
@@ -23,7 +22,7 @@ Let S(n) be ∑Fsf(k) for k=2 to n.
 S(100)=193.
 
 
-Find S(10 000 000 000). 
+Find S(10 000 000 000).
 
 
 

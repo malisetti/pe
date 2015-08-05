@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=392
@@ -22,7 +21,7 @@ E.g. here is a picture of the solution for N = 10:
 The area occupied by the red cells for N = 10 rounded to 10 digits behind the decimal point is 3.3469640797.
 
 
-Find the positions for N = 400. 
+Find the positions for N = 400.
 Give as your answer the area occupied by the red cells rounded to 10 digits behind the decimal point.
 
 

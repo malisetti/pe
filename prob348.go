@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=348
@@ -14,7 +13,7 @@ For example, 5229225 is a palindromic number and it can be expressed in exactly 
 22232 + 663
 18102 + 1253
 11972 + 1563
- 
+
 Find the sum of the five smallest such palindromic numbers.
 
 **/

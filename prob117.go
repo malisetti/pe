@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=117
@@ -156,7 +155,7 @@ Using a combination of black square tiles and oblong tiles chosen from: red tile
 
 
 
- 
+
 
 
 

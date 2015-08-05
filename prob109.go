@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=109
@@ -19,28 +18,28 @@ There are exactly eleven distinct ways to checkout on a score of 6:
 
 
 D3
- 
- 
+
+
 
 
 D1
 D2
- 
+
 
 
 S2
 D2
- 
+
 
 
 D2
 D1
- 
+
 
 
 S4
 D1
- 
+
 
 
 S1

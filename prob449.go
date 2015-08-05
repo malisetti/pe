@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=449
@@ -11,18 +10,18 @@ Phil the confectioner is making a new batch of chocolate covered candy. Each can
 
 Phil wants to know how much chocolate is needed to cover one candy centre with a uniform coat of chocolate one millimeter thick.
 
-    If a=1 mm and b=1 mm, the amount of chocolate required is 
-    
-    
+    If a=1 mm and b=1 mm, the amount of chocolate required is
+
+
         28
         3
-        
-    
+
+
     π mm3
 
 If a=2 mm and b=1 mm, the amount of chocolate required is approximately 60.35475635 mm3.
 
 
 Find the amount of chocolate in mm3 required if a=3 mm and b=1 mm. Give your answer as the number rounded to 8 decimal places behind the decimal point.
- 
+
 **/

@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=355
@@ -11,7 +10,7 @@ Define Co(n) to be the maximal possible sum of a set of mutually co-prime elemen
 
 
 
-You are given that Co(30) = 193 and Co(100) = 1356. 
+You are given that Co(30) = 193 and Co(100) = 1356.
 
 
 Find Co(200000).

@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=461
@@ -12,6 +11,6 @@ In fact, it is the best approximation of π of the form fn(a) + fn(b) + fn(c
 Let g(n) = a2 + b2 + c2 + d 2 for a, b, c, d that minimize the error: | fn(a) + fn(b) + fn(c) + fn(d) - π|
 (where |x| denotes the absolute value of x).
 You are given g(200) = 62 + 752 + 892 + 2262 = 64658.
-Find g(10000). 
+Find g(10000).
 
 **/

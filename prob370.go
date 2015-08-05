@@ -1,12 +1,11 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=370
 
 Geometric triangles
 
-Let us define a geometric triangle as an integer sided triangle with sides a ≤ b ≤ c so that its sides form a geometric progression, i.e. b2 = a · c .  
+Let us define a geometric triangle as an integer sided triangle with sides a ≤ b ≤ c so that its sides form a geometric progression, i.e. b2 = a · c .
 
 An example of such a geometric triangle is the triangle with sides a = 144, b = 156 and c = 169.
 

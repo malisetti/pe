@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=371
@@ -12,7 +11,7 @@ While driving to work Seth plays the following game:
 Whenever the numbers of two licence plates seen on his trip add to 1000 that's a win.
 
 
-E.g. MIC-012 and HAN-988 is a win and RYU-500 and SET-500 too. (as long as he sees them in the same trip). 
+E.g. MIC-012 and HAN-988 is a win and RYU-500 and SET-500 too. (as long as he sees them in the same trip).
 
 
 Find the expected number of plates he needs to see for a win.

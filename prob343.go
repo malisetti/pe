@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=343
@@ -10,7 +9,7 @@ For any positive integer k, a finite sequence ai of fractions xi/yi is defined b
 a1 = 1/k and
 ai = (xi-1+1)/(yi-1-1) reduced to lowest terms for i>1.
 When ai reaches some integer n, the sequence stops. (That is, when yi=1.)
-Define f(k) = n. 
+Define f(k) = n.
 For example, for k = 20:
 
 

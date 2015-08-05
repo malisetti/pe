@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=124
@@ -11,7 +10,7 @@ If we calculate rad(n) for 1 ≤ n ≤ 10, then sort them on rad(n), and sorting
 
 
 Unsorted
- 
+
 Sorted
 
 
@@ -24,52 +23,52 @@ k
 
 
 11
- 
+
 111
 
 
 22
- 
+
 222
 
 
 33
- 
+
 423
 
 
 42
- 
+
 824
 
 
 55
- 
+
 335
 
 
 66
- 
+
 936
 
 
 77
- 
+
 557
 
 
 82
- 
+
 668
 
 
 93
- 
+
 779
 
 
 1010
- 
+
 101010
 
 

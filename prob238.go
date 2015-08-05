@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=238
@@ -13,15 +12,15 @@ table.p238 td { padding: 0px 3px 0px 3px; }
 Create a sequence of numbers using the "Blum Blum Shub" pseudo-random number generator:
 
 
-  
+
     s0
     =
     14025256
-  
+
     sn+1
     =
     sn2 mod 20300713
-  
+
 
 
 Concatenate these numbers  s0s1s2… to create a string w of infinite length.
@@ -31,7 +30,7 @@ For a positive integer k, if no substring of w exists with a sum of digits equal
 
 For instance:
 
-The substrings 1, 14, 1402, … 
+The substrings 1, 14, 1402, …
 with respective sums of digits equal to 1, 5, 7, …
 start at position 1, hence p(1) = p(5) = p(7) = … = 1.
 

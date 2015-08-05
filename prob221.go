@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=221
@@ -10,36 +9,36 @@ We shall call a positive integer A an "Alexandrian integer", if there exist inte
 
 
 
-   
-      A = p · q · r    and  
-   
-   
-      
+
+      A = p · q · r    and
+
+
+
          1
          A
-      
-   
+
+
    =
-   
-      
+
+
          1
          p
-      
-   
+
+
    +
-   
-      
+
+
          1
          q
-      
-   
+
+
    +
-   
-      
+
+
          1
          r
-      
-   
+
+
 
 
 

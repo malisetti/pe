@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=53
@@ -13,7 +12,7 @@ In general,
 
 
 
-nCr = 
+nCr =
 n!r!(n−r)!
 ,where r ≤ n, n! = n×(n−1)×...×3×2×1, and 0! = 1.
 

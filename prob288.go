@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=288
@@ -25,7 +24,7 @@ You are given that NF(3,10000) mod 320=624955285.
 Find NF(61,107) mod 6110
 
 
-    
+
 
 
 **/

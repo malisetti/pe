@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=379
@@ -10,7 +9,7 @@ Least common multiple count
 Let f(n) be the number of couples (x,y) with x and y positive integers, x ≤ y and the least common multiple of x and y equal to n.
 
 
-Let g be the summatory function of f, i.e.: 
+Let g be the summatory function of f, i.e.:
 g(n) = ∑ f(i)  for 1 ≤ i ≤ n.
 
 

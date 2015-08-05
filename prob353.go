@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=353
@@ -7,7 +6,7 @@ https://projecteuler.net/problem=353
 Risky moon
 
 
-A moon could be described by the sphere C(r) with centre (0,0,0) and radius r. 
+A moon could be described by the sphere C(r) with centre (0,0,0) and radius r.
 
 
 
@@ -27,7 +26,7 @@ The minimal risk of a journey from the North Pole station to the South Pole stat
 
 
 
-You are given that M(7)=0.1784943998  rounded to 10 digits behind the decimal point. 
+You are given that M(7)=0.1784943998  rounded to 10 digits behind the decimal point.
 
 
 

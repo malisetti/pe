@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=241
@@ -13,7 +12,7 @@ A perfect number, as you probably know, is a number with σ(n) = 2n.
 
 
 
-Let us define the perfection quotient of a positive integer asp(n)= 
+Let us define the perfection quotient of a positive integer asp(n)=
 σ(n)n
 .
 

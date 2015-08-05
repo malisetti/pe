@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=207
@@ -11,7 +10,7 @@ where 4t, 2t, and k are all positive integers and t is a real number.
 
 The first two such partitions are 41 = 21 + 2 and 41.5849625... = 21.5849625... + 6.
 
-Partitions where t is also an integer are called perfect. 
+Partitions where t is also an integer are called perfect.
 For any m ≥ 1 let P(m) be the proportion of such partitions that are perfect with k ≤ m.
 Thus P(6) = 1/2.
 

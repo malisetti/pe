@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=340
@@ -8,7 +7,7 @@ Crazy Function
 
 
 For fixed integers a, b, c, define the crazy function F(n) as follows:
-F(n) = n - c for all n > b 
+F(n) = n - c for all n > b
 F(n) = F(a + F(a + F(a + F(a + n)))) for all n ≤ b.
 
 

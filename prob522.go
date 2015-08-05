@@ -1,12 +1,11 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=522
 
 Hilbert's Blackout
 
-Despite the popularity of Hilbert's infinite hotel, Hilbert decided to try managing extremely large finite hotels, instead. 
+Despite the popularity of Hilbert's infinite hotel, Hilbert decided to try managing extremely large finite hotels, instead.
 
 To cut costs, Hilbert wished to power the new hotel with his own special generator. Each floor would send power to the floor above it, with the top floor sending power back down to the bottom floor. That way, Hilbert could have the generator placed on any given floor (as he likes having the option) and have electricity flow freely throughout the entire hotel.
 

@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=253
@@ -33,11 +32,11 @@ For a caterpillar of ten pieces, the number of possibilities for each M is
 
 M
 Possibilities
-1512      
-2250912      
-31815264      
-41418112      
-5144000      
+1512
+2250912
+31815264
+41418112
+5144000
 
 
 

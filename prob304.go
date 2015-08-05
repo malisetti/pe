@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=304
@@ -21,8 +20,8 @@ f(0)=0, f(1)=1 and f(n)=f(n-1)+f(n-2) for n>1.
 The sequence b(n) is defined as f(a(n)).
 
 
-Find ∑b(n) for 1≤n≤100 000. 
-Give your answer mod 1234567891011. 
+Find ∑b(n) for 1≤n≤100 000.
+Give your answer mod 1234567891011.
 
 
 

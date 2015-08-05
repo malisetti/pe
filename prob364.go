@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=364
@@ -11,7 +10,7 @@ There are N seats in a row. N people come after each other to fill the seats acc
 
 If there is any seat whose adjacent seat(s) are not occupied take such a seat.
 If there is no such seat and there is any seat for which only one adjacent seat is occupied take such a seat.
-Otherwise take one of the remaining available seats. 
+Otherwise take one of the remaining available seats.
 
 Let T(N) be the number of possibilities that N seats are occupied by N people with the given rules. The following figure shows T(4)=8.
 

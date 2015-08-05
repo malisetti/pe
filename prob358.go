@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=358
@@ -17,7 +16,7 @@ The smallest cyclic number is the 6-digit number 142857 :
 142857 × 3 = 428571
 142857 × 4 = 571428
 142857 × 5 = 714285
-142857 × 6 = 857142  
+142857 × 6 = 857142
 
 
 

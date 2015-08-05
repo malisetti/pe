@@ -1,12 +1,11 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=194
 
 Coloured Configurations
 
-Consider graphs built with the units A: 
+Consider graphs built with the units A:
 and B: , where the units are glued along
 the vertical edges as in the graph .
 

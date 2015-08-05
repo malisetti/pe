@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=114
@@ -193,7 +192,7 @@ A row measuring seven units in length has red blocks with a minimum length of th
 
 
 
- 
+
 
 
 

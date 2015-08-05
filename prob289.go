@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=289
@@ -12,7 +11,7 @@ For positive integers m and n, let E(m,n) be a configuration which consists of t
 { C(x,y): 0 ≤ x < m, 0 ≤ y < n, x and y are integers }
 
 An Eulerian cycle on E(m,n) is a closed path that passes through each arc exactly once.
-Many such paths are possible on E(m,n), but we are only interested in those which are not self-crossing: 
+Many such paths are possible on E(m,n), but we are only interested in those which are not self-crossing:
 A non-crossing path just touches itself at lattice points, but it never crosses itself.
 
 The image below shows E(3,3) and an example of an Eulerian non-crossing path.

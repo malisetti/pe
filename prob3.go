@@ -10,7 +10,7 @@ What is the largest prime factor of the number 600851475143 ?
 **/
 
 import (
-	"fmt";
+	"fmt"
 	"math"
 )
 
@@ -21,7 +21,7 @@ func main() {
 	limit := int(math.Ceil(math.Sqrt(float64(number))))
 
 	for start <= limit {
-		for number % start == 0 {
+		for number%start == 0 {
 			number = number / start
 			if start >= largest_factor {
 				largest_factor = start

@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=101
@@ -23,7 +22,7 @@ OP(2, n) = 7n−6
 1, 8, 15, ...
 
 
-OP(3, n) = 6n2−11n+6     
+OP(3, n) = 6n2−11n+6
 1, 8, 27, 58, ...
 
 

@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=380
@@ -23,7 +22,7 @@ Find C(100,500) and write your answer in scientific notation rounded to 5 signif
 When giving your answer, use a lowercase e to separate mantissa and exponent.
 E.g. if the answer is 1234567891011 then the answer format would be 1.2346e12.
 
- 
+
 
 
 

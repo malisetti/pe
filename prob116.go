@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=116
@@ -82,7 +81,7 @@ If red tiles are chosen there are exactly seven ways this can be done.
 
 
 
- 
+
 
 
 
@@ -119,7 +118,7 @@ If green tiles are chosen there are three ways.
 
 
 
- 
+
 
 
 

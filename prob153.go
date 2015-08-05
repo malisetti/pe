@@ -1,5 +1,4 @@
-package main 
-
+package main
 
 /**
 https://projecteuler.net/problem=153
@@ -29,7 +28,7 @@ If for example we divide 5 by 1+2i we can simplify  in the following manner:
 
 Multiply numerator and denominator by the complex conjugate of 1+2i: 1−2i.
 
-The result is 
+The result is
 .
 
 So 1+2i is a divisor of 5.
