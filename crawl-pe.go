@@ -2,6 +2,7 @@ package main
 
 import (
 	//"fmt"
+	"log"
 	"net/http"
 	"os"
 	"strconv"
@@ -30,13 +31,13 @@ func fetch(i int) {
 	defer wg.Done()
 	resp, err := http.Get(url)
 
-	if err != nil || resp.StatusCode != http.StatusOK {
-		panic(err)
+	if err != nil {
+		log.Fatal(err)
 	} else {
 		defer resp.Body.Close()
 		doc, err := goquery.NewDocumentFromReader(resp.Body)
 		if err != nil {
-			panic(err)
+			log.Fatal(err)
 		} else {
 			var title string = ""
 			var problemContent string = ""
@@ -51,7 +52,7 @@ func fetch(i int) {
 			//write to file
 			path, err := os.Getwd()
 			if err != nil {
-				panic(err)
+				log.Fatal(err)
 			}
 
 			pathSeparator := string(byte(os.PathSeparator))
@@ -59,13 +60,12 @@ func fetch(i int) {
 
 			f, err := os.Create(filepath)
 			if err != nil {
-				panic(err)
-			} else {
-				println(url)
+				log.Fatal(err)
 			}
+
 			defer f.Close()
 
-			_, _ = f.WriteString("package main \n\n\n/**\n" + url + "\n\n" + title + "\n" + problemContent + "**/\n")
+			f.WriteString("package main \n\n\n/**\n" + url + "\n\n" + title + "\n" + problemContent + "**/\n")
 			f.Sync()
 		}
 	}
