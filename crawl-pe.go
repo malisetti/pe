@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	//"fmt"
 	"net/http"
 	"strconv"
 	"sync"
@@ -20,7 +20,6 @@ func main() {
 	for i := 1; i <= 523; i++ {
 		wg.Add(1)
 		go fetch(i)
-		i++
 	}
 	wg.Wait()
 }
@@ -32,12 +31,12 @@ func fetch(i int) {
 	resp, err := http.Get(url)
 
 	if err != nil || resp.StatusCode != http.StatusOK {
-		fmt.Println("http transport error is:", err)
+		panic(err)
 	} else {
 		defer resp.Body.Close()
 		doc, err := goquery.NewDocumentFromReader(resp.Body)
 		if err != nil {
-			fmt.Println("read error is:", err)
+			panic(err)
 		} else {
 			var title string = ""
 			var problemContent string = ""
@@ -56,7 +55,7 @@ func fetch(i int) {
 		  	}
 		  	
 		  	pathSeparator := string(byte(os.PathSeparator))
-		  	filepath := path + pathSeparator + "test" + pathSeparator + num + ".go"//+ "prob"
+		  	filepath := path + pathSeparator + pathSeparator + "prob" + num + ".go"
 
 		  	f, err := os.Create(filepath)
 		  	if err != nil {
