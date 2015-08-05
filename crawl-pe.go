@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
 	"net/http"
 	"strconv"
 	"sync"
@@ -56,7 +55,8 @@ func fetch(i int) {
 		  		panic(err)
 		  	}
 		  	
-		  	filepath := path + string(byte(os.PathSeparator)) + "prob" + num + ".go"
+		  	pathSeparator := string(byte(os.PathSeparator))
+		  	filepath := path + pathSeparator + "test" + pathSeparator + num + ".go"//+ "prob"
 
 		  	f, err := os.Create(filepath)
 		  	if err != nil {
@@ -64,13 +64,8 @@ func fetch(i int) {
 		  	}
 	  	    defer f.Close()
 
-	  	    _, _ = f.WriteString(title + "\n" + problemContent)
+	  	    _, _ = f.WriteString("package main \n\n\n/**\n" + title + "\n" + problemContent + "**/\n")
   	        f.Sync()
-		}
-
-		body, err := ioutil.ReadAll(resp.Body)
-		if err == nil {
-			fmt.Println(string(body))
 		}
 	}
 }
