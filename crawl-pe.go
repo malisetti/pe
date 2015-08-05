@@ -3,9 +3,9 @@ package main
 import (
 	//"fmt"
 	"net/http"
+	"os"
 	"strconv"
 	"sync"
-	"os"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -41,32 +41,32 @@ func fetch(i int) {
 			var title string = ""
 			var problemContent string = ""
 			doc.Find("#content h2").Each(func(i int, s *goquery.Selection) {
-		    	title = s.Text()
-		  	})
+				title = s.Text()
+			})
 
-		  	doc.Find("#content .problem_content").Each(func(i int, s *goquery.Selection) {
-		    	problemContent = s.Text()
-		  	})
+			doc.Find("#content .problem_content").Each(func(i int, s *goquery.Selection) {
+				problemContent = s.Text()
+			})
 
-		  	//write to file
-		  	path, err := os.Getwd()
-		  	if err != nil {
-		  		panic(err)
-		  	}
-		  	
-		  	pathSeparator := string(byte(os.PathSeparator))
-		  	filepath := path + pathSeparator + pathSeparator + "prob" + num + ".go"
+			//write to file
+			path, err := os.Getwd()
+			if err != nil {
+				panic(err)
+			}
 
-		  	f, err := os.Create(filepath)
-		  	if err != nil {
-		  		panic(err)
-		  	} else {
-		  		println(url)
-		  	}
-	  	    defer f.Close()
+			pathSeparator := string(byte(os.PathSeparator))
+			filepath := path + pathSeparator + pathSeparator + "prob" + num + ".go"
 
-	  	    _, _ = f.WriteString("package main \n\n\n/**\n" + url + "\n\n" + title + "\n" + problemContent + "**/\n")
-  	        f.Sync()
+			f, err := os.Create(filepath)
+			if err != nil {
+				panic(err)
+			} else {
+				println(url)
+			}
+			defer f.Close()
+
+			_, _ = f.WriteString("package main \n\n\n/**\n" + url + "\n\n" + title + "\n" + problemContent + "**/\n")
+			f.Sync()
 		}
 	}
 }
