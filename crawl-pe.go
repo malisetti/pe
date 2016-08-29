@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"net/http"
 	"os"
@@ -14,9 +13,12 @@ import (
 const BASE_URL = "https://projecteuler.net/problem="
 
 func fetch(problems <-chan int, done <-chan bool) {
+	path, _ := os.Getwd()
+
 	for {
 		select {
 		case i := <-problems:
+			defer wg.Done()
 			num := strconv.Itoa(i)
 			url := BASE_URL + num
 
@@ -39,7 +41,6 @@ func fetch(problems <-chan int, done <-chan bool) {
 					})
 
 					//write to file
-					path, err := os.Getwd()
 					if err != nil {
 						log.Fatal(err)
 					}
@@ -47,19 +48,18 @@ func fetch(problems <-chan int, done <-chan bool) {
 					filepath := path + pathSeparator + "prob" + padLeft(num, "0", 3) + ".go"
 
 					f, err := os.Create(filepath)
+					defer f.Close()
 					if err != nil {
 						log.Fatal(err)
 					}
 
-					defer f.Close()
-
 					f.WriteString("package main \n\n\n/**\n" + url + "\n\n" + title + "\n" + problemContent + "**/\n")
 					f.Sync()
+				} else {
+					log.Println(err)
 				}
 			}
-			wg.Done()
-
-			fmt.Printf("Finished processing problem #%d", i)
+			log.Printf("Finished processing problem #%d\n", i)
 		case <-done:
 			return
 		}
@@ -91,12 +91,13 @@ func main() {
 		go fetch(problems, done)
 	}
 
-	for i := 1; i < 556; i++ {
+	for i := 1; i <= 556; i++ {
 		wg.Add(1)
 
 		problems <- i
 	}
 
 	wg.Wait()
+
 	done <- true
 }
