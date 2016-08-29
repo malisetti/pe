@@ -18,7 +18,6 @@ func fetch(problems <-chan int, done <-chan bool) {
 	for {
 		select {
 		case i := <-problems:
-			defer wg.Done()
 			num := strconv.Itoa(i)
 			url := BASE_URL + num
 
@@ -26,7 +25,6 @@ func fetch(problems <-chan int, done <-chan bool) {
 			if err != nil {
 				log.Fatal(err)
 			} else {
-				defer resp.Body.Close()
 				doc, err := goquery.NewDocumentFromReader(resp.Body)
 
 				if err == nil {
@@ -41,26 +39,24 @@ func fetch(problems <-chan int, done <-chan bool) {
 					})
 
 					//write to file
-					if err != nil {
-						log.Fatal(err)
-					}
-
 					filepath := path + pathSeparator + "prob" + padLeft(num, "0", 3) + ".go"
 
 					f, err := os.Create(filepath)
-					defer f.Close()
 					if err != nil {
 						log.Fatal(err)
 					}
 
 					f.WriteString("package main \n\n\n/**\n" + url + "\n\n" + title + "\n" + problemContent + "**/\n")
 					f.Sync()
+					f.Close()
 				} else {
 					log.Println(err)
 				}
+				resp.Body.Close()
 			}
 			log.Printf("Finished processing problem #%d\n", i)
 		case <-done:
+			wg.Done()
 			return
 		}
 	}
@@ -68,11 +64,14 @@ func fetch(problems <-chan int, done <-chan bool) {
 
 func padLeft(str, pad string, lenght int) string {
 	for {
-		str = pad + str
-		if len(str) > lenght {
-			return str[0:lenght]
+		if len(str) < lenght {
+			str = pad + str
+		} else {
+			break
 		}
 	}
+
+	return str[0:lenght]
 }
 
 var wg sync.WaitGroup
@@ -88,12 +87,11 @@ func main() {
 	defer close(done)
 
 	for i := 0; i < 3; i++ {
+		wg.Add(1)
 		go fetch(problems, done)
 	}
 
 	for i := 1; i <= 556; i++ {
-		wg.Add(1)
-
 		problems <- i
 	}
 
