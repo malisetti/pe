@@ -10,7 +10,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-const BASE_URL = "https://projecteuler.net/problem="
+const baseURL = "https://projecteuler.net/problem="
 
 func fetch(problems <-chan int, done <-chan bool) {
 	path, _ := os.Getwd()
@@ -19,7 +19,7 @@ func fetch(problems <-chan int, done <-chan bool) {
 		select {
 		case i := <-problems:
 			num := strconv.Itoa(i)
-			url := BASE_URL + num
+			url := baseURL + num
 
 			resp, err := http.Get(url)
 			if err != nil {
@@ -28,8 +28,8 @@ func fetch(problems <-chan int, done <-chan bool) {
 				doc, err := goquery.NewDocumentFromReader(resp.Body)
 
 				if err == nil {
-					var title string = ""
-					var problemContent string = ""
+					var title string
+					var problemContent string
 					doc.Find("#content h2").Each(func(i int, s *goquery.Selection) {
 						title = s.Text()
 					})
@@ -55,23 +55,19 @@ func fetch(problems <-chan int, done <-chan bool) {
 				resp.Body.Close()
 			}
 			log.Printf("Finished processing problem #%d\n", i)
-		case <-done:
 			wg.Done()
+		case <-done:
 			return
 		}
 	}
 }
 
 func padLeft(str, pad string, lenght int) string {
-	for {
-		if len(str) < lenght {
-			str = pad + str
-		} else {
-			break
-		}
+	for len(str) < lenght {
+		str = pad + str
 	}
 
-	return str[0:lenght]
+	return str
 }
 
 var wg sync.WaitGroup
@@ -86,12 +82,12 @@ func main() {
 	defer close(problems)
 	defer close(done)
 
-	for i := 0; i < 3; i++ {
-		wg.Add(1)
+	for i := 0; i < 10; i++ {
 		go fetch(problems, done)
 	}
 
 	for i := 1; i <= 556; i++ {
+		wg.Add(1)
 		problems <- i
 	}
 
